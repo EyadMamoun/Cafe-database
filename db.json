@@ -1,0 +1,34 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "productImg": "assets/Images/Turkish_Coffee.jpg",
+        "productName": "Turkish Coffee",
+        "productDescription": "Finely ground coffee boiled and served in a cup.",
+        "productPrice": 70
+      },
+      {
+        "id": 2,
+        "productImg": "assets/Images/Latte.jpg",
+        "productName": "Iced Spanish Latte",
+        "productDescription": "A Latin twist of rich espresso and special milk with a sweet finish.",
+        "productPrice": 165
+      },
+      {
+        "id": 3,
+        "productImg": "assets/Images/Salted_caramel.jpg",
+        "productName": "Iced Salted Caramel",
+        "productDescription": "Caramel cream espresso with whipped cream and salted sugar.",
+        "productPrice": 180
+      },
+      {
+        "id": 4,
+        "productImg": "assets/Images/Filter_Coffee.jpg",
+        "productName": "Filtered Coffee",
+        "productDescription": "Freshly brewed filtered coffee with a smooth, clean finish.",
+        "productPrice": 85
+      }
+    ],
+
+    "categories": []
+}
